@@ -1,4 +1,4 @@
-# animated_size
+# Flutter Music Player
 
 A new Flutter project.
 
