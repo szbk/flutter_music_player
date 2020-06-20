@@ -1,16 +1,14 @@
 # Flutter Music Player
 
-A new Flutter project.
+[![Made-with-Flutter](https://img.shields.io/badge/Made%20with-Flutter-5fc9f8.svg)](https://flutter.dev/)
+[![Made-with-Dart](https://img.shields.io/badge/Made%20with-Dart-13589c.svg)](https://dart.dev/)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Music player application with Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## Flutter
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://raw.githubusercontent.com/sbilketay/flutter_music_player/master/screen_1.jpg" width="350"/>
+<img src="https://raw.githubusercontent.com/sbilketay/flutter_music_player/master/screen_2.jpg" width="350"/>
+<img src="https://raw.githubusercontent.com/sbilketay/flutter_music_player/master/screen_3.jpg" width="350"/>
+<img src="https://github.com/sbilketay/flutter_music_player/blob/master/screen.gif" width="350"/>
