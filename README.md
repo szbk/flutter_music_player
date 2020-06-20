@@ -4,7 +4,7 @@
 [![Made-with-Dart](https://img.shields.io/badge/Made%20with-Dart-13589c.svg)](https://dart.dev/)
 
 
-Music player application with Flutter. For a clean display <a href="https://www.youtube.com/watch?v=zHuScH5ZziE">Youtube Link</a>
+Music player application with Flutter. For a clean display <a href="https://www.youtube.com/watch?v=zHuScH5ZziE" target="_blank">Youtube Link</a>
 
 ## Screenshots
 
