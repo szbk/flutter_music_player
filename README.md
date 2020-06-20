@@ -8,5 +8,5 @@ Music player application with Flutter.
 
 ## Flutter
 
-<img src="https://raw.githubusercontent.com/sbilketay/flutter_music_player/master/screen_1.jpg" width="250"/> <img src="https://raw.githubusercontent.com/sbilketay/flutter_music_player/master/screen_2.jpg" width="250"/>
-<img src="https://raw.githubusercontent.com/sbilketay/flutter_music_player/master/screen_3.jpg" width="250"/> <img src="https://github.com/sbilketay/flutter_music_player/blob/master/screen.gif" width="250"/>
+<img src="https://raw.githubusercontent.com/sbilketay/flutter_music_player/master/screen_1.jpg" width="150"/> <img src="https://raw.githubusercontent.com/sbilketay/flutter_music_player/master/screen_2.jpg" width="150"/>
+<img src="https://raw.githubusercontent.com/sbilketay/flutter_music_player/master/screen_3.jpg" width="150"/> <img src="https://github.com/sbilketay/flutter_music_player/blob/master/screen.gif" width="150"/>
